@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Sheryl <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
-<p>Welcome to my page! </br> I'm an Operation Management Officer from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Jakarta, Indonesia</b></p>
+<p>Welcome to my page! </br> I'm an Operation Management Officer from <img src="https://cdn-icons-png.flaticon.com/512/197/197531.png" width="13"/> <b>Jakarta, Indonesia</b></p>
 
 <h3>Things I code with</h3>
 <p>
