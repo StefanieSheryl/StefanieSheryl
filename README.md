@@ -1,8 +1,12 @@
 <h1> Hi there, I'm Sheryl <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 
-<p>Welcome to my page! </br> I'm an Operation Management Officer from <b>Jakarta, Indonesia</b></p>
+<p>
+  Welcome to my page! </br> 
+  I'm an Computer Science Student from <b>Jakarta, Indonesia</b></br> 
+  Currently working as Operation Management Officer at Software Laboratory Center, Binus University
+  </p>
 
-<h3>Things I code with</h3>
+###  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25" alt="computer code gif" /> Things I Code With
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -27,3 +31,9 @@
 ![StefanieSheryl's github stats](https://github-readme-stats.vercel.app/api?username=StefanieSheryl&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieSheryl&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/StefanieSheryl/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StefanieSheryl&theme=dark)](https://git.io/streak-stats)
+
+### <img src="https://media.giphy.com/media/NyvHpr4SYdXGHOxgQz/giphy.gif?cid=790b761185j51v7u3mlz5zlt6shscgdmoyrqihbque1xzmyg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25" alt="Location GIF" /> Where To Find Me
+<p>
+  <a href="https://github.com/StefanieSheryl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/teresa-sheryl-48140b208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
