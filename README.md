@@ -2,9 +2,9 @@
 
 <p>
   Welcome to my page! </br> 
-  I'm an Computer Science Student from <b>Jakarta, Indonesia</b></br> 
+  I am a Computer Science student at Binus University, specializing in Intelligent Systems, based in <b>Jakarta, Indonesia</b></br> 
   Currently working as Operation Management Officer at Software Laboratory Center, Binus University
-  </p>
+</p>
 
 ###  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25" alt="computer code gif" /> Things I Code With
 <p>
