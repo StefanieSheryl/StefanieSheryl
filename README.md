@@ -6,6 +6,13 @@
   Currently working as Operation Management Officer at Software Laboratory Center, Binus University
 </p>
 
+ ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ6eDd2b21mdWR3eXIxZmJwZW9hc2EzdGJ0YmRxN3J2YjljZjZ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FxJBpNTBgWdJCXKD4/giphy.gif"  width="25" alt="Description of GIF" /> About Me:
+<p>
+🖥 I enjoy web development and software engineering, with a growing interest in artificial intelligence.</br> 
+👩‍💻 I adapt quickly to new technologies and concepts.</br> 
+👯 I thrive on interacting with others and sharing ideas.</br> 
+</p>
+
 ###  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25" alt="computer code gif" /> Things I Code With
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
