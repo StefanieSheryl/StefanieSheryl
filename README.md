@@ -59,8 +59,12 @@
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img alt="Motoko" src="https://img.shields.io/badge/-Motoko-2D9CDB?style=flat-square&logo=motoko&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="R Studio" src="https://img.shields.io/badge/-R%20Studio-276DC3?style=flat-square&logo=rstudio&logoColor=white" />
+  <img alt="RapidMiner" src="https://img.shields.io/badge/-RapidMiner-FFB500?style=flat-square&logo=rapidminer&logoColor=white" />
+  <img alt="Axure" src="https://img.shields.io/badge/-Axure%20RP-003366?style=flat-square&logo=axure&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
 </p>
-
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
