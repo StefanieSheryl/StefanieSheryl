@@ -1,12 +1,12 @@
 <h1> Hi there, I'm Sheryl <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
-
+<img src="https://media.giphy.com/media/BRN2Xi0MqnjjO/giphy.gif?cid=ecf05e47frqhnc3mnpgx7kpt05yzmsqyn16t1yycheywsl0o&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="header" />
 <p>
-  Welcome to my page! </br> 
+  <b>Welcome to my page! </b></br> 
   I am a Computer Science student at Binus University, specializing in Intelligent Systems, based in <b>Jakarta, Indonesia</b></br> 
   Currently working as Operation Management Officer at Software Laboratory Center, Binus University
 </p>
 
- ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ6eDd2b21mdWR3eXIxZmJwZW9hc2EzdGJ0YmRxN3J2YjljZjZ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FxJBpNTBgWdJCXKD4/giphy.gif"  width="25" alt="Description of GIF" /> About Me:
+ ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ6eDd2b21mdWR3eXIxZmJwZW9hc2EzdGJ0YmRxN3J2YjljZjZ0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FxJBpNTBgWdJCXKD4/giphy.gif"  width="25" alt="about me" /> About Me:
 <p>
 🖥 I enjoy web development and software engineering, with a growing interest in artificial intelligence.</br> 
 👩‍💻 I adapt quickly to new technologies and concepts.</br> 
@@ -68,11 +68,11 @@
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![StefanieSheryl's github stats](https://github-readme-stats.vercel.app/api?username=StefanieSheryl&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieSheryl&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/StefanieSheryl/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StefanieSheryl&theme=dark)](https://git.io/streak-stats)
+![StefanieSheryl's github stats](https://github-readme-stats.vercel.app/api?username=StefanieSheryl&show_icons=true&title_color=00BFFF&icon_color=FF7F50&text_color=FFFFFF&bg_color=003366&hide=issues&count_private=true&include_all_commits=true&card_width=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieSheryl&layout=compact&text_color=FFFFFF&bg_color=003366&title_color=00BFFF&icon_color=FF7F50&hide=css,html,php&card_width=400)](https://github.com/StefanieSheryl/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StefanieSheryl&theme=dark&background=003366&ring=00BFFF&fire=FF7F50&currStreakLabel=FFFFFF&card_width=400)](https://git.io/streak-stats)
 
-### <img src="https://media.giphy.com/media/NyvHpr4SYdXGHOxgQz/giphy.gif?cid=790b761185j51v7u3mlz5zlt6shscgdmoyrqihbque1xzmyg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25" alt="Location GIF" /> Where To Find Me
+### <img src="https://media.giphy.com/media/NyvHpr4SYdXGHOxgQz/giphy.gif?cid=790b761185j51v7u3mlz5zlt6shscgdmoyrqihbque1xzmyg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25" alt="location" /> Where To Find Me
 <p>
   <a href="https://github.com/StefanieSheryl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/teresa-sheryl-48140b208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
