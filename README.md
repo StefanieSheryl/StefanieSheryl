@@ -68,9 +68,9 @@
 
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![StefanieSheryl's github stats](https://github-readme-stats.vercel.app/api?username=StefanieSheryl&show_icons=true&title_color=00BFFF&icon_color=FF7F50&text_color=FFFFFF&bg_color=003366&hide=issues&count_private=true&include_all_commits=true&card_width=400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieSheryl&layout=compact&text_color=FFFFFF&bg_color=003366&title_color=00BFFF&icon_color=FF7F50&hide=css,html,php&card_width=400)](https://github.com/StefanieSheryl/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StefanieSheryl&theme=dark&background=003366&ring=00BFFF&fire=FF7F50&currStreakLabel=FFFFFF&card_width=400)](https://git.io/streak-stats)
+![StefanieSheryl's github stats](https://github-readme-stats.vercel.app/api?username=StefanieSheryl&show_icons=true&title_color=00BFFF&icon_color=FF7F50&text_color=FFFFFF&bg_color=003366&hide=issues&count_private=true&include_all_commits=true&card_width=400)</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StefanieSheryl&theme=dark&background=003366&ring=00BFFF&fire=FF7F50&currStreakLabel=FFFFFF&card_width=400)](https://git.io/streak-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieSheryl&layout=compact&text_color=FFFFFF&bg_color=003366&title_color=00BFFF&icon_color=FF7F50&hide=css,html,php&card_width=400)](https://github.com/StefanieSheryl/github-readme-stats)</br>
 
 ### <img src="https://media.giphy.com/media/NyvHpr4SYdXGHOxgQz/giphy.gif?cid=790b761185j51v7u3mlz5zlt6shscgdmoyrqihbque1xzmyg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25" alt="location" /> Where To Find Me
 <p>
