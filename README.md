@@ -13,8 +13,7 @@
 👯 I thrive on interacting with others and sharing ideas.</br> 
 </p>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJnNGM3NGhkczFvbnhrcDloNXI0czVzZThzMmVycmppeGg1anpwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C299iw7dL1YF7oni9e/giphy.gif" width="25" alt="portofolio website" />
- Check out my portofolio website!
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJnNGM3NGhkczFvbnhrcDloNXI0czVzZThzMmVycmppeGg1anpwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C299iw7dL1YF7oni9e/giphy.gif" width="25" alt="portofolio website" /> Check out my portofolio website!
 <a href="https://portofolio-seven-ashen.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=appveyor" alt="Visit My Portfolio" />
 </a>
