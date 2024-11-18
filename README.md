@@ -13,8 +13,8 @@
 👯 I thrive on interacting with others and sharing ideas.</br> 
 </p>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJnNGM3NGhkczFvbnhrcDloNXI0czVzZThzMmVycmppeGg1anpwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C299iw7dL1YF7oni9e/giphy.gif" width="25" alt="portofolio website" /> Check out my portofolio!
-<a href="https://binusianorg-my.sharepoint.com/personal/teresa_sheryl_binus_edu/_layouts/15/guestaccess.aspx?share=EcrV4Bja5l9Ert_FYuZM5c0BF4Xg5M6V4vBfIvHSxHixEw&e=iHx42c" target="_blank">
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJnNGM3NGhkczFvbnhrcDloNXI0czVzZThzMmVycmppeGg1anpwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C299iw7dL1YF7oni9e/giphy.gif" width="25" alt="portofolio website" /> Check out my portfolio!
+<a href="https://binusianorg-my.sharepoint.com/personal/teresa_sheryl_binus_edu/_layouts/15/guestaccess.aspx?share=EcjX1CmcdDtIllzbBTOsb34BGEIE1TRDHPKPxpIqxcNZGQ&e=rdqVaV" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=appveyor" alt="Visit My Portfolio" />
 </a>
 
